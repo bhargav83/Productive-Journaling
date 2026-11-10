@@ -1,5 +1,6 @@
 # Productive-Journaling
 
+
 # Concept
 An Excel-based lightweight productivity tracker designed for reflection, scoring, and visualizing daily effort.
 
@@ -36,4 +37,34 @@ You decide what matters, how much detail to add, and how seriously to take it.
 
 # instructions
 
-know how to use excel first. 
+This template is meant to be simple.
+You don’t need to understand everything before starting.
+
+Step 1 — One-time setup (≈ 5 minutes)
+In the setup sheet, edit the activities, hobbies, or qualities that matter to you.
+You decide what deserves attention — and how much.
+
+There’s no “correct” scoring system here.
+Set scores in a way that feels fair and realistic to you.
+(edit the hobby comments/descriptions 'rightclick column->edit comment')
+
+Step 2 — Daily use (≈ 1–2 minutes)
+At the end of the day/the next day morning/anytime you prefer,
+give yourself a score honestly
+write a short line about how the day felt, or give it a title
+That’s enough.
+(If you want to vent, reflect deeper, or write more — you can.
+If not, a single sentence is perfectly fine.)
+
+Step 3 — Let patterns form
+Use it daily without trying to optimize it early.
+Over time, the charts and summaries begin to show patterns and enjoy!
+Good days, bad days, boring days — they all count.
+
+That’s the whole system.
+
+# Technical Features 
+
+# Benifits
+
+# Future plans. 
