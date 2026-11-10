@@ -1,4 +1,6 @@
 # Productive-Journaling
+
+# Concept
 An Excel-based lightweight productivity tracker designed for reflection, scoring, and visualizing daily effort.
 
 What is this?
@@ -32,4 +34,6 @@ You decide what matters, how much detail to add, and how seriously to take it.
 <img width="2490" height="1146" alt="image" src="https://github.com/user-attachments/assets/f8e2c68c-c1a0-481e-898c-11832d3e50fd" />
 
 
+# instructions
 
+know how to use excel first. 
