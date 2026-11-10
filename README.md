@@ -1,4 +1,4 @@
-# Productive-Journaling
+# Productive-Journaling (Projo)
 
 
 # Concept
