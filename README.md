@@ -44,6 +44,9 @@ Step 1 — One-time setup (≈ 5 minutes)
 In the setup sheet, edit the activities, hobbies, or qualities that matter to you.
 You decide what deserves attention — and how much.
 
+<img width="311" height="76" alt="Screenshot 2026-11-11 052907" src="https://github.com/user-attachments/assets/9ec3fa3f-0f95-4658-8670-038f0538ed97" />
+
+
 There’s no “correct” scoring system here.
 Set scores in a way that feels fair and realistic to you.
 (edit the hobby comments/descriptions 'rightclick column->edit comment')
