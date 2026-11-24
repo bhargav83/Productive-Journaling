@@ -56,8 +56,12 @@ At the end of the day/the next day morning/anytime you prefer,
 give yourself a score honestly
 write a short line about how the day felt, or give it a title
 That’s enough.
-(If you want to vent, reflect deeper, or write more — you can.
-If not, a single sentence is perfectly fine.)
+
+(If you want to vent, reflect deeper, or write more — you can.)
+<img width="392" height="38" alt="Screenshot 2026-11-24 105337" src="https://github.com/user-attachments/assets/3e30589f-a2a8-4ac4-960d-c21b9ae5804d" />
+
+(If not, a single sentence is perfectly fine.)
+<img width="295" height="11" alt="Screenshot 2026-11-24 110130" src="https://github.com/user-attachments/assets/0f0ce727-3d7e-4900-bb6e-1d088f9457f3" />
 
 Step 3 — Let patterns form
 Use it daily without trying to optimize it early.
