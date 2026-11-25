@@ -59,11 +59,13 @@ That’s enough.
 
 (If you want to vent, reflect deeper, or write more — you can.)
 
-<img width="392" height="38" alt="Screenshot 2026-11-24 105337" src="https://github.com/user-attachments/assets/3e30589f-a2a8-4ac4-960d-c21b9ae5804d" />
+<img width="668" height="154" alt="Screenshot 2026-11-25 045515" src="https://github.com/user-attachments/assets/0a996c36-e397-4994-96b5-7a9fdf45484f" />
+
 
 (If not, a single sentence is perfectly fine.)
 
-<img width="295" height="11" alt="Screenshot 2026-11-24 110130" src="https://github.com/user-attachments/assets/0f0ce727-3d7e-4900-bb6e-1d088f9457f3" />
+<img width="308" height="51" alt="Screenshot 2026-11-25 045714" src="https://github.com/user-attachments/assets/9ff286cf-4dc8-46d0-846d-89256198381b" />
+
 
 Step 3 — Let patterns form
 Use it daily without trying to optimize it early.
