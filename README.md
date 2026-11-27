@@ -74,6 +74,16 @@ Good days, bad days, boring days — they all count.
 
 That’s the whole system.
 
+# Functionality
+
+<img width="377" height="492" alt="Screenshot 2026-11-27 153320" src="https://github.com/user-attachments/assets/595b4aa6-ee81-448a-a9fd-2286dbab06f3" />
+
+Charts Sheet: 
+
+<img width="377" height="502" alt="image" src="https://github.com/user-attachments/assets/87aed7e8-5e24-4d61-b618-793dd2555975" />
+
+
+
 # Technical Features 
 
 
