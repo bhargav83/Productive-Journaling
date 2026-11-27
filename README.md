@@ -76,6 +76,21 @@ That’s the whole system.
 
 # Technical Features 
 
+Functionality	What it does
+Top N	Rank the highest-scoring activities, days or weeks
+Cumulative score	Track total points over time
+Weekly comparison	Compare this week against the previous one
+Daily competition	Compare Monday–Sunday scores
+Dynamic colours	Change cell appearance based on score and configured weight
+Consistency score	Measure how regularly activities are completed
+Streak calculator	Calculate consecutive days of activity
+Activity ratios	Compare activity scores between weeks
+Score distribution	Show how much each activity contributes to the total
+Bonus/penalty system	Add or deduct points using custom rules
+Comments and reflections	Record the human side of each day
+Project progress	Track longer-term work separately
+
+
 # Benifits
 
 # Future plans. 
